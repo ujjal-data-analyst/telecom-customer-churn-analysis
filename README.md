@@ -119,7 +119,7 @@ The Power BI dashboard provides an interactive view of:
 - Internet service analysis
 - High-risk customer segments
 
-![Telecom Customer Churn Dashboard](Screenshot 2026-05-28 191708.png)
+![Telecom Customer Churn Dashboard](dashboard.png)
 
 ---
 
